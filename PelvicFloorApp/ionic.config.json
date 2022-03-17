@@ -1,0 +1,7 @@
+{
+  "name": "PelvicFloorApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
